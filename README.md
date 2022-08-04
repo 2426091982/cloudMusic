@@ -18,10 +18,13 @@
 ## 项目运行（nodejs 6.0+）
 ``` bash
 # 克隆到本地
-git clone git@github.com:2426091982/junMusic.git
+git clone https://github.com/2426091982/cloudMusic.git
+
+# 开启服务
+cd junMusic-server && node app.js
 
 # 进入文件夹
-cd junMusic
+cd junMusic-client
 
 # 安装依赖
 npm install 或 yarn(推荐)
